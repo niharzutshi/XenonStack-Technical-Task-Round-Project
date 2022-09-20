@@ -85,4 +85,4 @@ You are done with the setup now!
 
 -----------------------------------
 
-<h3 align="center"><b>Developed with :heart: by  <a href="https://twitter.com/zutshi_nihar">Nihar Zutshi</a>, <a href="https://github.com/EshaBakshi27">Esha Bakshi</a>,
+<h3 align="center"><b>Developed with :heart: by  <a href="https://twitter.com/zutshi_nihar">Nihar Zutshi</a>
